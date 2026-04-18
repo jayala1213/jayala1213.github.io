@@ -1240,7 +1240,7 @@ header .logo a {
 .main-navigation > li {
 	display: block;
 	height: auto;
-	text-align: left;
+	text-align: center;
 	padding: 0;  /* Can add padding: 2px 0; for slight spacing */
 }
 .main-navigation li a {
