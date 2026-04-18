@@ -1253,8 +1253,8 @@ header .logo a {
 	border: none;
 }
 .main-navigation li a:hover {
-	color: #FF0077;
-	padding-left: 0.2rem;
+	color: ##FF3D98;
+	padding-left: 1px;
 }
 .main-navigation li.current > a {
 	background: none;
