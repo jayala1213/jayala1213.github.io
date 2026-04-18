@@ -1230,7 +1230,7 @@ header .logo a {
 /* dropdown nav */
 .main-navigation {
 	background: #000000;
-	padding: 24px 24px 24px;
+	padding: 12px 20px;  /* Reduced from 24px 30px 42px */
 	margin: 0;
 	width: 100%;
 	height: auto;
@@ -1241,13 +1241,13 @@ header .logo a {
 	display: block;
 	height: auto;
 	text-align: left;
-	padding: 0;
+	padding: 0;  /* Can add padding: 2px 0; for slight spacing */
 }
 .main-navigation li a {
 	display: block;
 	color: #FFFFFF;
 	width: auto;
-	padding: 15px 0;
+	padding: 8px 0;  /* Reduced from 15px 0 */
 	line-height: 16px;
 	border: none;
 }
