@@ -1219,7 +1219,7 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 160px;  /* Very tight column */
+	width: 100px;  /* Very tight column */
 	font-family: "poppins-medium", sans-serif;
 	font-size: 1.5rem;
 	position: absolute;
