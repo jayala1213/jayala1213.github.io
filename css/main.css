@@ -1219,7 +1219,7 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 300px;  /* Very tight column */
+	width: 100px;  /* Very tight column */
 	font-family: "poppins-medium", sans-serif;
 	font-size: 1.5rem;
 	position: absolute;
@@ -1240,7 +1240,7 @@ header .logo a {
 .main-navigation > li {
 	display: block;
 	height: auto;
-	text-align: center;
+	text-align: left;
 	padding: 0;  /* Can add padding: 2px 0; for slight spacing */
 }
 .main-navigation li a {
