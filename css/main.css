@@ -1219,18 +1219,19 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 100px;  /* Very tight column */
+	width: 100%;
 	font-family: "poppins-medium", sans-serif;
 	font-size: 1.5rem;
 	position: absolute;
 	top: 100%;
 	left: 0;
+
 }
 
 /* dropdown nav */
 .main-navigation {
 	background: #000000;
-	padding: 12px 20px;  /* Reduced from 24px 30px 42px */
+	padding: 24px 30px 42px;
 	margin: 0;
 	width: 100%;
 	height: auto;
@@ -1241,19 +1242,19 @@ header .logo a {
 	display: block;
 	height: auto;
 	text-align: left;
-	padding: 0;  /* Can add padding: 2px 0; for slight spacing */
+	padding: 0;
 }
 .main-navigation li a {
 	display: block;
 	color: #FFFFFF;
 	width: auto;
-	padding: 8px 0;  /* Reduced from 15px 0 */
+	padding: 15px 0;
 	line-height: 16px;
 	border: none;
 }
 .main-navigation li a:hover {
 	color: #FF0077;
-	padding-left: 1rem;  /* Reduced from 1rem */
+	padding-left: 1rem;
 }
 .main-navigation li.current > a {
 	background: none;
